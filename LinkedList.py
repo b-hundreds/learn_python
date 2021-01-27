@@ -46,4 +46,5 @@ if __name__ == "__main__":
     ln.add(3)
     ln.add(4)
     ln.add(5)
-    ln.find()
+    ln.find(
+#Thử nghiệm nên thêm vào
